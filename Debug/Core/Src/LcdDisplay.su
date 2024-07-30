@@ -1,0 +1,23 @@
+../Core/Src/LcdDisplay.cpp:61:5:RGB convertHexToRgb(uint16_t)	24	static
+../Core/Src/LcdDisplay.cpp:71:1:LcdDisplay::LcdDisplay()	192	static
+../Core/Src/LcdDisplay.cpp:113:7:void LcdDisplay::lcdCmd(uint8_t)	16	static
+../Core/Src/LcdDisplay.cpp:121:7:void LcdDisplay::lcdSend(uint16_t)	16	static
+../Core/Src/LcdDisplay.cpp:130:7:void LcdDisplay::lcdData(uint8_t)	16	static
+../Core/Src/LcdDisplay.cpp:138:6:void LcdDisplay::lcdCreateRectangle(int, int, int, int, uint16_t)	40	static
+../Core/Src/LcdDisplay.cpp:146:6:void LcdDisplay::lcdDataTwoBajts(uint16_t)	16	static
+../Core/Src/LcdDisplay.cpp:152:6:void LcdDisplay::lcdSetWindow(int, int, int, int)	24	static
+../Core/Src/LcdDisplay.cpp:163:6:void LcdDisplay::putPixel(int, int, uint16_t)	24	static
+../Core/Src/LcdDisplay.cpp:170:6:void LcdDisplay::show()	24	static
+../Core/Src/LcdDisplay.cpp:181:1:void LcdDisplay::drawCircle(int8_t, int8_t, int8_t, uint16_t)	24	static
+../Core/Src/LcdDisplay.cpp:213:6:void LcdDisplay::drawRectangle(int8_t, int8_t, int8_t, int8_t, uint16_t)	24	static
+../Core/Src/LcdDisplay.cpp:221:6:void LcdDisplay::fadedRectangle(int8_t, int8_t, int8_t, int8_t, uint16_t, uint16_t)	48	static
+../Core/Src/LcdDisplay.cpp:232:6:void LcdDisplay::drawFilledCircle(int8_t, int8_t, int8_t, uint16_t)	48	static
+../Core/Src/LcdDisplay.cpp:254:6:void LcdDisplay::drawLine(float, float, float, float, uint16_t)	48	static
+../Core/Src/LcdDisplay.cpp:273:6:void LcdDisplay::drawTriangle(int8_t, int8_t, int8_t, int8_t, int8_t, int8_t, int16_t)	104	static
+../Core/Src/LcdDisplay.cpp:309:6:void LcdDisplay::drawBottom(int8_t, int8_t, int8_t, float, float, float, float, int16_t)	40	static
+../Core/Src/LcdDisplay.cpp:330:6:void LcdDisplay::drawTop(int8_t, int8_t, int8_t, float, float, float, float, int16_t)	40	static
+../Core/Src/LcdDisplay.cpp:351:6:void LcdDisplay::drawHorizontalLine(int8_t, int8_t, int8_t, int8_t, uint16_t)	24	static
+../Core/Src/LcdDisplay.cpp:366:6:void LcdDisplay::drawNumber(int8_t, int8_t, uint16_t)	32	static
+../Core/Src/LcdDisplay.cpp:377:6:void LcdDisplay::printRow(uint8_t, int8_t, int8_t, uint16_t)	80	static
+../Core/Src/LcdDisplay.cpp:393:1:LcdDisplay::~LcdDisplay()	16	static
+../Core/Src/LcdDisplay.cpp:393:1:virtual LcdDisplay::~LcdDisplay()	16	static

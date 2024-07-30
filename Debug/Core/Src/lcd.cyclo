@@ -1,0 +1,11 @@
+../Core/Src/lcd.c:53:13:lcdCmd	1
+../Core/Src/lcd.c:61:13:lcdData	1
+../Core/Src/lcd.c:69:13:lcdSend	2
+../Core/Src/lcd.c:78:6:initLcd	2
+../Core/Src/lcd.c:97:13:lcdDataTwoBajts	1
+../Core/Src/lcd.c:103:13:lcdSetWindow	1
+../Core/Src/lcd.c:114:6:lcdCreateRectangle	2
+../Core/Src/lcd.c:122:6:lcdColorPixel	1
+../Core/Src/lcd.c:127:6:lcd_draw_image	1
+../Core/Src/lcd.c:138:6:putPixel	1
+../Core/Src/lcd.c:143:6:show	1
